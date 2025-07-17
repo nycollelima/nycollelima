@@ -15,9 +15,3 @@ Hello there! I'm Nycolle, a passionate **Computer Science student** exploring th
 - **Email**: marselhelima@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/marselhelima/
 - **Portfolio**: https://github.com/nycollelima/Portifolio
-
-
-### 🚀 Goals:
-- Become a **proficient web developer**.  
-- Dive deeper into **QA processes** to ensure top-notch software delivery.  
-- Contribute to impactful **open-source projects**.  
