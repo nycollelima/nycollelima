@@ -9,9 +9,3 @@ Hello there! I'm Nycolle, a passionate **Computer Science student** exploring th
 - **Web**: HTML, CSS
 - **Tools**: Git, VS Code
 - **Currently Exploring**: Java
-
-
-### 📫 Connect with Me:
-- **Email**: marselhelima@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/marselhelima/
-- **Portfolio**: https://github.com/nycollelima/Portifolio
